@@ -1,0 +1,135 @@
+{
+  "ok": {},
+  "members": [
+    {
+      "id": "W012A3CDE",
+      "real_name": "Egon Spengler",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 3 2021  1:33PM",
+          "end_time": "Feb 3 2021 1:54PM"
+        },
+        {
+          "start_time": "Feb 4 2021  8:30AM",
+          "end_time": "Feb 4 2021 1:00PM"
+        },
+
+        {
+          "start_time": "Feb 4 2021  8:30AM",
+          "end_time": "Feb 4 2021 1:00PM"
+        },
+
+        {
+          "start_time": "Feb 6 2021  8:30AM",
+          "end_time": "Feb 6 2021 1:00PM"
+        },
+        {
+          "start_time": "Feb 6 2021  4:30PM",
+          "end_time": "Feb 6 2021 5:00PM"
+        },
+        {
+          "start_time": "Feb 8 2021  8:30AM",
+          "end_time": "Feb 8 2021 1:00PM"
+        },
+        {
+          "start_time": "Feb 8 2021  4:30PM",
+          "end_time": "Feb 8 2021 5:00PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Feb 4 2021  8:30AM",
+          "end_time": "Feb 4 2021 1:00PM"
+        },
+
+        {
+          "start_time": "Feb 4 2021  4:30AM",
+          "end_time": "Feb 4 2021 5:00PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Glinda Southgood",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA5",
+      "real_name": "Tony stark",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA6",
+      "real_name": "Bruce banner",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2021  1:33PM",
+          "end_time": "Feb 1 2021 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA8",
+      "real_name": "Alice bruce",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    }
+  ]
+}
